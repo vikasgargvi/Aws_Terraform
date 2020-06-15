@@ -4,6 +4,12 @@ Build an Infrastructure as a Code(Iaas) on AWS using Terraform
 # Objective: 
 Launch/Create Application on AWS using Terraform
 
+# AWS Services used:
+- EC2
+- EBS
+- S3
+- CloudFront
+
 # STEPS
 1. Create the key and security group which allow the port 80.
 2. Launch EC2 instance.
