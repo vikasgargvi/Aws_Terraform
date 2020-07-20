@@ -40,3 +40,7 @@ Objective is Same as Task 1 but with few changes: Mount Amazon EFS (Elastic File
 7. Create S3 bucket, and copy/deploy the images from github repo into the s3 bucket and change the permission to public readable.
 8. Create a Cloudfront using s3 bucket(which contains images) and use the Cloudfront URL to  update in code in /var/www/html
 9. Launch the website automatically
+
+
+# Aws_Terraform_Task_2
+Article: https://medium.com/@vikasgargvi/iaac-infrastructure-as-a-code-using-terraform-for-deploying-secure-wordpress-application-and-f8241c3faa25
