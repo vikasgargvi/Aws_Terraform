@@ -44,3 +44,6 @@ Objective is Same as Task 1 but with few changes: Mount Amazon EFS (Elastic File
 
 # Aws_Terraform_Task_3
 Article: https://medium.com/@vikasgargvi/iaac-infrastructure-as-a-code-using-terraform-for-deploying-secure-wordpress-application-and-f8241c3faa25
+
+# Aws_Terraform_Task_3
+Medium Article: 
